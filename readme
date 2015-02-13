@@ -1,0 +1,15 @@
+/*
+* Solitaire: A program for playing all possible moves of solitaire
+* Copyright (C) 2014 Jonathan Richards
+*
+* Written by Jonathan Richards, jonrds@gmail.com
+*
+* 
+* This program examines all possible states of a game of solitaire,
+* eliminating duplicates with a hashset. Still in testing.
+*
+* Future versions will calculate the percentage of winnable solitaire
+* games, the best available move to make given a state (and unknown
+* face-down cards), or even good general strategies to use when
+* playing.
+*/
